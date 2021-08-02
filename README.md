@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nazarzavertnev
+- 👀 I’m interested in playing accordion
+- 🌱 I’m currently learning python, sql
+- 💞️ I’m looking to collaborate on i don't know
+- 📫 How to reach me что?
