@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nazarzavertnev
-- 👀 I’m NOT interested in playing accordion, but can. I like riddim music
 - 🌱 I’m currently learning python and frontend
 - 💞️ I’m looking to collaborate on SOMETHING
 - 📫 How to reach me: email zavertnevn@gmail.com
